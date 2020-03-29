@@ -1,5 +1,6 @@
 # Deep Convolutional Variational Autoencoder
-This Repository consists of a Deep Convolutional-Variational Autoencoder (CNN-VAE) made in Python using Tensorflow 1.x 
+This Repository consists of a Deep Convolutional-Variational Autoencoder (CNN-VAE) made in Python using Tensorflow 1.x
+
 Major Inspiration for implementation was taken from [Ha and Schmidhuber, "Recurrent World Models Facilitate Policy Evolution", 2018.
 ](https://worldmodels.github.io/#appendix).
 
